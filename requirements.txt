@@ -8,3 +8,5 @@ langchain_groq
 openai
 pydantic
 langchain_core
+streamlit
+
