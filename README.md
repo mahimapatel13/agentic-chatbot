@@ -1,0 +1,1 @@
+first phase: a simple ai chatbot with message persistance
