@@ -9,4 +9,12 @@ openai
 pydantic
 langchain_core
 streamlit
+langchain-tavily
+tavily-python
 
+langchain_huggingface
+langchain_community
+langchain_text_splitters
+faiss-cpu
+pypdf
+langchain_google_genai
