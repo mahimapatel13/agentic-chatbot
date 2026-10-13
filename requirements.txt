@@ -18,3 +18,5 @@ langchain_text_splitters
 faiss-cpu
 pypdf
 langchain_google_genai
+langgraph-checkpoint-sqlite
+
